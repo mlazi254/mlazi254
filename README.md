@@ -1,31 +1,112 @@
-<h1 align="center">Hi 👋, I'm Symoh</h1>
-<h3 align="center">A passionate frontend developer from kenya</h3>
+<h1 align="center" style="background: linear-gradient(90deg, #ff00cc, #3333ff); color: #fff; padding: 16px; border-radius: 16px;">
+  ✨ Hi, I'm <span style="color: #00ffe7;">symohtech</span> 👋 ✨
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlazi254&label=Profile%20views&color=0e75b6&style=flat" alt="mlazi254" /> </p>
+<p align="center">
+  <img src="https://files.catbox.moe/htr4nn.jpg" alt="symohtech" width="180" style="border-radius: 50%; box-shadow: 0 0 20px #00ffe7, 0 0 40px #ff00cc;" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlazi254" alt="mlazi254" /></a> </p>
+<p align="center">
+  <em style="font-size: 1.1em; background: linear-gradient(90deg, #ff00cc, #3333ff); color: #fff; padding: 8px 16px; border-radius: 8px;">
+    A passionate high school student and aspiring developer.
+  </em>
+</p>
 
-- 🔭 I’m currently working on [Marytech](s3c5.netlify.app)
+---
 
-- 🌱 I’m currently learning **Courses**
+<h2 align="center" style="background: linear-gradient(90deg, #00ffe7, #ff00cc); color: #fff; padding: 8px 0; border-radius: 12px;">
+  👨‍💻 About Me
+</h2>
 
-- 👯 I’m looking to collaborate on [WhatsApp bot](Cypherx.space)
+<ul>
+  <li>Small developer with a big desire to learn more!</li>
+  <li>Interested in web development (<b>HTML & JavaScript</b>).</li>
+  <li>Always exploring new tech to grow my skills.</li>
+</ul>
 
-- 🤝 I’m looking for help with [Web](Simoh.netlify.app)
+---
 
-- 👨‍💻 All of my projects are available at [s3c6.netlify.app](s3c6.netlify.app)
+<h2 align="center" style="background: linear-gradient(90deg, #ff00cc, #3333ff); color: #fff; padding: 8px 0; border-radius: 12px;">
+  🚀 Featured Projects
+</h2>
 
-- 📝 I regularly write articles on [https://s3c6.netlify.app/](https://s3c6.netlify.app/)
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mlazi254/symoh">symoh</a></td>
+    <td>My main project—check it out!</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mlazi254/Symohbot">Symohbot</a></td>
+    <td>An intelligent web bot to automate tasks</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mlazi254/Contacts-">Contacts-</a></td>
+    <td>Simple contacts management solution</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mlazi254/xp">xp</a></td>
+    <td>Experimenting with new ideas</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mlazi254/Xc">Xc</a></td>
+    <td>Another cool project</td>
+  </tr>
+</table>
 
-- 💬 Ask me about **React and vue**
+---
 
-- 📫 How to reach me **chege2218@gmail.com**
+<h2 align="center" style="background: linear-gradient(90deg, #00ffe7, #ff00cc); color: #fff; padding: 8px 0; border-radius: 12px;">
+  🌐 Connect with Me
+</h2>
 
-- ⚡ Fun fact **Black isn't just colour it's our identity 🫆**
+<p align="center">
+  <a href="https://symohcontacts.vercel.app">
+    <img src="https://img.shields.io/badge/My%20Website-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ff00cc" alt="Website"/>
+  </a>
+  <a href="https://symohshop.vercel.app">
+    <img src="https://img.shields.io/badge/Shop%20With%20Us-FFD700?style=for-the-badge&logo=vercel&logoColor=white&labelColor=ff00cc" alt="Shop With Us"/>
+  </a>
+  <a href="https://wa.me/254788729180">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=00ffe7" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/symohke2">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff00cc" alt="Instagram"/>
+  </a>
+  <a href="https://symohai.netlify.app">
+    <img src="https://img.shields.io/badge/Web%20Bot-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=3333ff" alt="Web Bot"/>
+  </a>
+  <a href="https://youtube.com/@techsymoh">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=ff00cc" alt="YouTube"/>
+  </a>
+  <a href="https://t.me/symohbot">
+    <img src="https://img.shields.io/badge/Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=3333ff" alt="Telegram Bot"/>
+  </a>
+  <a href="https://whatsapp.com/channel/your-channel-id">
+    <img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=00ffe7" alt="WhatsApp Channel"/>
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/chazywayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chazywayne" height="30" width="40" /></a>
+---
+
+<h2 align="center" style="background: linear-gradient(90deg, #ff00cc, #3333ff); color: #fff; padding: 8px 0; border-radius: 12px;">
+  🛠️ Skills
+</h2>
+
+<ul>
+  <li><span style="color: #00ffe7;">HTML</span></li>
+  <li><span style="color: #ff00cc;">JavaScript</span></li>
+  <li><span style="color: #3333ff;">Web Development</span></li>
+</ul>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mlazi254&show_icons=true&theme=radical" alt="symohtech's GitHub Stats" />
+</p><a href="https://codepen.io/chazywayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chazywayne" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chazywayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chazywayne" height="30" width="40" /></a>
 <a href="https://fb.com/techsymoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techsymoh" height="30" width="40" /></a>
 <a href="https://instagram.com/symohke2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="symohke2" height="30" width="40" /></a>
